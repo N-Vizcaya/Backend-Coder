@@ -1,0 +1,20 @@
+[
+{
+    "title":"Nike Air Force 1",
+    "price":35000,
+    "imgProd":"https://i.imgur.com/hQWWOhP.png",
+    "id":0
+},
+{
+    "title":"Nike Air Max 1",
+    "price":33000,
+    "imgProd":"https://i.imgur.com/C7X9rOc.jpg",
+    "id":1
+    },
+{
+    "title":"Adidas Tubular",
+    "price":23000,
+    "imgProd":"https://i.imgur.com/5nD30Si.jpg",
+    "id":2
+}
+]
